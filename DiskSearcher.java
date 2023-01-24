@@ -1,7 +1,4 @@
 
-//liran magnezi
-//ID: 205973605
-
 import java.io.File;
 
 public class DiskSearcher {
