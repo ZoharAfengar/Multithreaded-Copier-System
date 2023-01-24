@@ -1,7 +1,4 @@
 
-//liran magnezi
-//ID: 205973605
-
 /**
  * A synchronized bounded-size queue for multithreaded producer-consumer applications.
  *
